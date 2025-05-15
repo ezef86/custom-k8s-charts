@@ -1,8 +1,8 @@
 # Ignore Helm chart archive files
-*.tgz
+# *.tgz
 
 # Ignore chart dependencies
-charts/
+# charts/
 
 # Ignore lock files
 Chart.lock
