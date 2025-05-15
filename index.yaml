@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  educacionit-app:
+    - apiVersion: v2
+      appVersion: 1.16.0
+      created: "2025-05-15T22:11:53.930068716Z"
+      description: Un Helm chart para desplegar educacionit-app en Kubernetes
+      digest: 8a55077644177e7cfe6a21e3b835339954bc02bc1e64a136de4e417fb26c6830
+      name: educacionit-app
+      type: application
+      urls:
+        - custom-k8s-charts/educacionit-app-0.1.0.tgz
+      version: 0.1.0
+generated: "2025-05-15T22:11:53.923826505Z"
