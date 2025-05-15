@@ -1,0 +1,12 @@
+# Enforce LF line endings for all text and .sh files
+* text=auto eol=lf
+*.sh text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+
+
+# Enforce CRLF line endings for Windows-specific files
+*.bat text eol=crlf
+*.ps1 text eol=crlf
